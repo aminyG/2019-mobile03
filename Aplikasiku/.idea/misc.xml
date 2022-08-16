@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/drawable/button_red.xml" value="0.1785" />
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_forgot_password.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_login.xml" value="0.18385416666666668" />
         <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_reset_password.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_success_login.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_success_reset_password.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_welcome.xml" value="0.14666666666666667" />
       </map>
     </option>
   </component>
